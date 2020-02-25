@@ -12,6 +12,7 @@ class test2 {
         System.out.println("第二个测试文件");
         System.out.println("克隆之后第一次修改");
         System.out.println("克隆66666");
+        System.out.println("原版666");
     }
 
 }
